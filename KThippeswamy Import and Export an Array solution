@@ -1,1 +1,3 @@
-Import and Export an Array
+importArray.mjs
+import myArray from "./exportArray.mjs";
+
