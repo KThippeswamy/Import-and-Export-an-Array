@@ -1,3 +1,2 @@
-importArray.mjs
 import myArray from "./exportArray.mjs";
 
